@@ -1,0 +1,35 @@
+
+h1 {
+    text-align: center;
+}
+
+.imagenXD {
+    width: 100%;
+    border-radius: 17px;
+}
+
+.time-info {
+    display: flex;
+    justify-content: space-around;
+    color: rgb(0, 0, 0);
+  
+   
+    
+}
+
+.time-box {
+   
+    padding: 10px;
+    width: 100px;
+    background-color: #d3d3d3; /* Fondo gris sombreado */
+    border-radius: 17px;
+    
+}
+
+.time-text{
+    color: #000; /* Color del texto */
+    font-weight: bold; /* Texto en negrita */
+}
+
+
+
